@@ -1,0 +1,4 @@
+com\app\model\Product.class
+CoffeeShopApp.class
+com\app\service\OrderService.class
+com\app\service\ProductCatalogService.class
